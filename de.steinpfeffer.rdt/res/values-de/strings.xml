@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Regulo de tri</string>
+    <string name="app_description">Anwendung für den Dreisatz.</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="entry_form_unit_hint">Einheit</string>
+    <string name="entry_form_corresponds_to">=</string>
+    <string name="entry_form_button_reset">Alles zurücksetzen</string>
+    <string name="entry_form_button_calculate">Berechne</string>
+    <string name="entry_form_value_initial">0</string>
+    <string name="entry_form_label_given">Gegeben</string>
+    <string name="entry_form_label_requested">Gesucht</string>
+    <string name="entry_form_label_result">Ergebnis</string>
+
+</resources>

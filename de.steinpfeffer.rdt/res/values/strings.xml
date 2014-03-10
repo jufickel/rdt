@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Regulo de tri</string>
+    <string name="app_description">Applies the Rule of Three.</string>
+    <string name="action_settings">Settings</string>
+    <string name="entry_form_unit_hint">Unit</string>
+    <string name="entry_form_corresponds_to">=</string>
+    <string name="entry_form_button_reset">Reset all</string>
+    <string name="entry_form_button_calculate">Calculate</string>
+    <string name="entry_form_value_initial">0</string>
+    <string name="entry_form_label_given">Given</string>
+    <string name="entry_form_label_requested">Requested</string>
+    <string name="entry_form_label_result">Result</string>
+
+</resources>
