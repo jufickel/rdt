@@ -1,7 +1,8 @@
 # Regulo de tri
-
-## Esperanto
-Simpla aplikaĵo por apliki la regulon de tri.
-
-## English
 Simple application for applying the Rule of Three.
+
+## Scrrenshot
+![Screenshot of Regulo de tri](http://retujo.de/rdt/Regulo_de_tri.png "Screenshot")
+
+## Direct APK download
+[Regulo de tri APK](http://retujo.de/rdt/de.steinpfeffer.rdt.apk)
