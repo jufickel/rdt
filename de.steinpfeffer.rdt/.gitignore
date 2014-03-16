@@ -2,7 +2,6 @@
 /.checkstyle
 /.project
 /proguard-project.txt
-/project.properties
 bin/
 gen/
 libs/
