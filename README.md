@@ -1,7 +1,7 @@
 # Regulo de tri
 Simple application for applying the Rule of Three.
 
-## Scrrenshot
+## Screenshot
 ![Screenshot of Regulo de tri](http://retujo.de/rdt/Regulo_de_tri.png "Screenshot")
 
 ## Direct APK download
