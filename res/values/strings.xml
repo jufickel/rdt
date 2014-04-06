@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Regulo de tri</string>
+    <string name="app_name">Rule of Three</string>
     <string name="app_description">Applies the Rule of Three.</string>
     <string name="action_settings">Settings</string>
     <string name="entry_form_unit_hint">Unit</string>
