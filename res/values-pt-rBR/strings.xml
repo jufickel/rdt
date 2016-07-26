@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Regra de Três</string>
+    <string name="app_description">Aplica a Regra de Três.</string>
+    <string name="action_settings">Configurações</string>
+    <string name="entry_form_unit_hint">Unidade</string>
+    <string name="entry_form_corresponds_to">=</string>
+    <string name="entry_form_button_reset">Limpar tudo</string>
+    <string name="entry_form_button_calculate">Calcular</string>
+    <string name="entry_form_value_initial">0</string>
+    <string name="entry_form_label_given">Dados</string>
+    <string name="entry_form_label_requested">Requerido</string>
+    <string name="entry_form_label_result">Resultado</string>
+
+</resources>
