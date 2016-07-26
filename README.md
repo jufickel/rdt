@@ -1,3 +1,6 @@
+# IMPORTANT!
+This project is no longer actively developed. Please contact me if you want to take over.
+
 # Regulo de tri
 Simple application for applying the Rule of Three.
 
