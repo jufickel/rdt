@@ -9,7 +9,7 @@
     <string name="entry_form_button_reset">Resetear todo</string>
     <string name="entry_form_button_calculate">Calcular</string>
     <string name="entry_form_value_initial">0</string>
-    <string name="entry_form_label_given">Dado</string>
+    <string name="entry_form_label_given">Dados</string>
     <string name="entry_form_label_requested">Solicitado</string>
     <string name="entry_form_label_result">Resultado</string>
 
